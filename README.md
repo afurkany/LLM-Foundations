@@ -4,12 +4,13 @@ The repository is created to implement the fundamentals of the LLM concepts.
 
 ## The implementations in the repository can be seen as below:
 * PyTorch review: [link to notebook](/notebooks/pytorch_review.ipynb)
-* Implementation of a attention mechanism
-* Implementation of a transformer architecture
-* Implementation of a complete GPT architecture
-* Loading pretrained GPT model weights
-* Using pretrained model for fine tuning
-* Implementation of a basic chat UI and getting interaction with fine-tuned model
+* Implementation of tokenizer: N/A yet
+* Implementation of a attention mechanism: N/A yet
+* Implementation of a transformer architecture: N/A yet
+* Implementation of a complete GPT architecture: N/A yet
+* Loading pretrained GPT model weights: N/A yet
+* Using pretrained model for fine tuning: N/A yet
+* Implementation of a basic chat UI and getting interaction with fine-tuned model: N/A yet
 
 The README file will be updated towards the end of the entire implementation of the project.
 
