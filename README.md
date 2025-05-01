@@ -2,9 +2,10 @@
 
 The repository is created to implement the fundamentals of the LLM concepts.
 
-## The implementations in the repository can be seen as below:
-* PyTorch review: [link to notebook](/notebooks/pytorch_review.ipynb)
-* Implementation of tokenizer: N/A yet
+## The implementations in the repository can be seen as listed below:
+* PyTorch review: [link to notebook](/src/notebooks/01_pytorch_review.ipynb)
+* Implementation of tokenizer: [link to notebook](/src/notebooks/02_Tokenizer.ipynb)
+* Implementation of data sampling, embedding and positional embedding: [link to notebook](/src/notebooks/03_data_sampling.ipynb)
 * Implementation of a attention mechanism: N/A yet
 * Implementation of a transformer architecture: N/A yet
 * Implementation of a complete GPT architecture: N/A yet
